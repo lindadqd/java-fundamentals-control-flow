@@ -1,5 +1,6 @@
 package com.booleanuk.core;
 
+
 public class Exercise {
     /*
         One of the core building blocks of programming in any language is conditional statements.
